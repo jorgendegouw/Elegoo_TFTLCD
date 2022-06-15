@@ -17,14 +17,14 @@
 
 // When using the BREAKOUT BOARD only, use these 8 data lines to the LCD:
 // For the Arduino Uno, Duemilanove, Diecimila, etc.:
-//   D0 connects to digital pin 8  (Notice these are
-//   D1 connects to digital pin 9   NOT in order!)
-//   D2 connects to digital pin 2
-//   D3 connects to digital pin 3
-//   D4 connects to digital pin 4
-//   D5 connects to digital pin 5
-//   D6 connects to digital pin 6
-//   D7 connects to digital pin 7
+     D0 connects to digital pin 8  (Notice these are
+     D1 connects to digital pin 9   NOT in order!)
+     D2 connects to digital pin 2
+     D3 connects to digital pin 3
+     D4 connects to digital pin 4
+     D5 connects to digital pin 5
+     D6 connects to digital pin 6
+     D7 connects to digital pin 7
 // For the Arduino Mega, use digital pins 22 through 29
 // (on the 2-row header at the end of the board).
 
